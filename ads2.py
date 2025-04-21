@@ -26,21 +26,28 @@ logging.basicConfig(
 
 # Auto-Reply Message
 AUTO_REPLY_MESSAGE = """
-⭐️   Please contact us In Offic
+Welcome to Dark sells ☠️
+
+
+ Please contact us on official I’d⚡️
+(कुछ चाहिए तो निचे Dᴀʀᴋsᴇʟʟs7 मैसेज करे)
 
 👇 OUR OFFICAL ID 👇
 
-         @MR_XSHOP 
-         @MR_XSHOP
+        @DARKSELLS7 
+        @DARKSELLS7        👈Cʟɪᴄᴋ ʜᴇʀᴇ
 
 
-🗿Why choose us ? 
+Notes 📌
 
-* All video Fròm dark Web ✅
-* Service provide since 2019 ✅
-* Biggest & newest collection ✅ 
-* Safest payment gateway fòr privacy ✅
-* Each month 5 new updates inn all chanels ✅
+* ये अकाउंट सिर्फ विज्ञापनों के लिए इस्तेमाल होता है
+* कृपया इस आईडी पर मैसेज करें👉( @DARKSELLS7 )
+* आपको तुरंत सारी चीजें मिल जाएंगी
+______________________________________
+
+* This is only ads working I’d 
+* if you want anything so dm use on official I’d 
+* you gets instant reply on our official I’d
 """
 
 def display_banner():
