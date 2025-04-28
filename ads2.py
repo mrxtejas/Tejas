@@ -42,8 +42,7 @@ AUTO_REPLY_MESSAGE = """
 (👇   𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐡𝐞𝐫𝐞 👇)
 
          @MR_XSHOP  
-         @MR_XSHOP
-"""
+         @MR_XSHOP """
 
 def display_banner():
     """Display the banner using pyfiglet."""
